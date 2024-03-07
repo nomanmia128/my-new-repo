@@ -1,0 +1,30 @@
+div{
+     background-color: aquamarine;
+     border: 10px solid slategrey;
+     padding: 10px;
+     text-align: justify;
+     border-radius: 10px;
+     margin: 20px;
+     box-shadow: 10px 10px 10px rgb(202, 47, 233);
+}
+ul{
+    color:deeppink;
+}
+ol{
+    color:blue;
+}
+h4{
+    color:mediumslateblue;
+}
+img{
+    height: 90%;
+    width: 97%;
+    border: 10px solid blueviolet;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+
+
+
