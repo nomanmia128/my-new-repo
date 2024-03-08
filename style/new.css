@@ -27,5 +27,10 @@ h2{
     text-align: center;
 }
 
-
+.index{
+    background-color: blueviolet;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px green;
+    i
+}
 
